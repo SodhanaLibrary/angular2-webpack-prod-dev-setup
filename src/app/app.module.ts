@@ -7,8 +7,7 @@ import { AppComponent } from './app.component';
     BrowserModule
   ],
   declarations: [
-    AppComponent,
-    Ng2GifPreview
+    AppComponent
   ],
   bootstrap: [ AppComponent ]
 })

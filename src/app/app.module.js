@@ -20,8 +20,7 @@ var AppModule = (function () {
                 platform_browser_1.BrowserModule
             ],
             declarations: [
-                app_component_1.AppComponent,
-                Ng2GifPreview
+                app_component_1.AppComponent
             ],
             bootstrap: [app_component_1.AppComponent]
         }), 
